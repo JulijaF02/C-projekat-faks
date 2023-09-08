@@ -1,0 +1,36 @@
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.exe.config
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.exe
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.pdb
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.AssemblyReference.cache
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Form1.resources
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Properties.Resources.resources
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.GenerateResource.cache
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.CoreCompileInputs.cache
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.exe
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.pdb
+C:\Users\Juls\Documents\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Admin.resources
+E:\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.exe.config
+E:\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.exe
+E:\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.pdb
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.AssemblyReference.cache
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.SuggestedBindingRedirects.cache
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Admin.resources
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Form1.resources
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Properties.Resources.resources
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.GenerateResource.cache
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.CoreCompileInputs.cache
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.exe
+E:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.pdb
+D:\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.exe.config
+D:\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.exe
+D:\TVP odbrana\TVP odbrana\bin\Debug\TVP odbrana.pdb
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.AssemblyReference.cache
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Admin.resources
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Form1.resources
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Properties.Resources.resources
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.GenerateResource.cache
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.csproj.CoreCompileInputs.cache
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.exe
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP odbrana.pdb
+D:\TVP odbrana\TVP odbrana\obj\Debug\TVP_odbrana.Klijent.resources
